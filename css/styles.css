@@ -774,3 +774,24 @@ nav {
     max-width: 50rem;
     margin: 0 auto;
 }
+
+
+
+/* Features*/
+
+.feature {
+    gap: 4rem 2rem;
+}
+
+.feature__heading {
+    margin-top: 1rem;
+
+}
+
+.block-feature .block__header {
+    margin-bottom: 6rem;
+}
+
+.feature__image {
+    width: 100%;
+}
