@@ -385,7 +385,7 @@ a {
 }
 
 .plan--popular {
-    transform: scale(110%);
+    transform: scale(1.1);
 }
 
 .plan--popular .card__header {
