@@ -2,4 +2,4 @@
 Imaginary cloud hosting webpage using object oriented CSS, and BEM.
   
 ## Click to view
-# [Hoster.app](https://illustrious-strudel-c06709.netlify.app/)
+# [Hoster.netlify.app](https://tahahoster.netlify.app/)
