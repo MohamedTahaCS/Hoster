@@ -747,12 +747,15 @@ nav {
 @media screen and (min-width: 768px) {
     .hero {
         padding-top: 2rem;
-        padding-bottom: 15rem;
     }
 
     .hero__content {
         text-align: left;
         align-self: center;
+    }
+    
+    .hero__image {
+        padding-bottom: 6rem;
     }
 }
 
